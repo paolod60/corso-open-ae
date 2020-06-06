@@ -40,7 +40,5 @@ E infine una tabella:
 |Personaggio|Casa Editrice|Inventore|Voti|
 |:--|:--:|:--|--:|
 |Paperino|Disney|Walt Disney|193|
-|Spiderman|Marvel|Stan Lee, Steve Ditko [^Ditko]|74|
+|Spiderman|Marvel|Stan Lee, Steve Ditko|74|
 |Batman|DC||21
-
-[^Ditko]: È stato il primo disegnatore.
