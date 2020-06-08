@@ -4,13 +4,20 @@ Questo è un paragrafo normale: non c'è bisogno di fare altro che scrivere. Il 
 
 Ecco il nuovo paragrafo.
 
+## Enfasi
+
 È molto facile enfatizzare il testo: ecco il **grassetto** ed ecco il *corsivo*.
 
+## Liste
+
+### Liste puntate
 Facile creare liste puntate:
 
 - Pippo
 - Pluto
 - Paperino
+
+### Liste numerate
 
 Ma anche liste numerate:
 
