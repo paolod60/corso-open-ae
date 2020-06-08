@@ -5,3 +5,5 @@ Area di test per i partecipanti alla lezione su GitHub del percorso formativo Op
 Questo file è molto importante su GitHub.
 
 In genere contiene la descrizione del progetto e tutte le istruzioni per utilizzarne i prodotti.
+
+Uno dei concetti fondamentali è quello del branching.
